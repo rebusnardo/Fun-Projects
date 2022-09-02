@@ -26,8 +26,6 @@ function Api() {
 
   console.log(state);
 
-  //state.map((person) => console.log(person.id));
-
   return (
     <div>
       <button onClick={getApi}>OnClick</button>
